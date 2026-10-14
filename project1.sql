@@ -1,4 +1,3 @@
-```sql
 CREATE TABLE IF NOT EXISTS employee (
     employee_id INTEGER PRIMARY KEY,
     name TEXT,
